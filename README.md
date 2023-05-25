@@ -1,2 +1,2 @@
 # bmi calculator
-Practice using HTML, CSS, and Javascript. Source: @CodeBustler
+Practice using HTML, CSS, and Javascript by making a BMI Calculator. Inspired by @CodeBustler
